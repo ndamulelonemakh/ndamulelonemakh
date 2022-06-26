@@ -4,10 +4,11 @@
 - 💞️ I’m looking to collaborate on project that aim to enhance accessibility to technology in under-resourced regions
 - My areas of expertise are
   - Developing solutions on [Microsoft Azure]()
-  - Batch & Streaming Analytics on [GCP]()
-  - Machine learning - Natural Language Processing
   - Python Data Stuctures & Algorithms
   - DotNet & DotNetCore
+  - Machine learning - Natural Language Processing
+  - Batch & Streaming Analytics on [GCP]()
+
 - 📫 How to reach me
   
   - [Twitter](https://twitter.com/NdamuleloNemakh)
