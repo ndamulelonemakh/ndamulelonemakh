@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @endeesa :earth_africa:
 - 👀 I’m interested in solving societal problesms with technology
 - 🌱 I’m currently learning tools and techniques to help unlock value from Big Data. i.e. Data Engineering
-- 💞️ I’m looking to collaborate on project that aim to enhance accessibility to technology in under-resourced regions
+- 💞️ I’m looking to collaborate on project that aim to enhance accessibility to technology for disadvantaged communities
+
 - My areas of expertise are
   - Developing solutions on [Microsoft Azure]()
   - Python Data Stuctures & Algorithms
