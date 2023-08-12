@@ -5,9 +5,8 @@
 
 - My areas of expertise are
   - Developing solutions on [Microsoft Azure]()
-  - Machine learning - Natural Language Processing
-  - Python Data Stuctures & Algorithms
-  - DotNet & DotNetCore
+  - Machine learning - Natural Language Processing specialization
+  - Python, DotNet & DotNetCore
   - Designing data solutions on [Microsoft Azure]()
 
 - 📫 How to reach me
