@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @endeesa :earth_africa:
 - 👀 I’m interested in solving societal problems with technology
-- 💞️ I’m looking to collaborate on project that aim to enhance accessibility to technology for disadvantaged communities
+- 💞️ I’m keen to collaborate on projects that make technology more accessible for ALL people.
 
 - My areas of expertise are
   - Machine learning - Natural Language Processing specialization
