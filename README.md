@@ -12,8 +12,9 @@ I like to describe myself as a resourceful **Technologist** 🚀 with a passion 
 ### Expertise
 I specialize in transforming ideas into reality through:
 - **Machine Learning** 🧠, with a keen focus on **Natural Language Processing**.
-- **Data-Driven Solutions** 📊, architecting on [Microsoft Azure](https://azure.microsoft.com/).
-- Proficiency in **Python**, **DotNet**, and building **Apps**.
+- **Data-Driven Solutions** 📊, building on [Microsoft Azure](https://azure.microsoft.com/).
+- **App Development**, occasionally I build apps using React, Flutter, NextJS, AstroJS, WPF etc.
+- **Coding**, in **Python**, **.Net**, and **JavaScript** 
 
 ### Let's Connect!
 I'm always on the lookout for like-minded individuals and opportunities to collaborate. Feel free to reach out to me:
