@@ -14,7 +14,15 @@ I specialize in transforming ideas into reality through:
 - **Machine Learning** 🧠, with a keen focus on **Natural Language Processing**.
 - **Data-Driven Solutions** 📊, building on [Microsoft Azure](https://azure.microsoft.com/).
 - **App Development**, occasionally I build apps using React, Flutter, NextJS, AstroJS, WPF etc.
-- **Coding**, in **Python**, **.Net**, and **JavaScript** 
+- **Coding**, in **Python**, **.Net**, and **JavaScript**
+
+### Recent works
+
+**Advancing AI for Regularory Compliance**
+I've had the opportunity to lead  an exciting project, focusing on the development of end-to-end, scalable and secure AI solutions for understanding regulatory documents. This work involves using machine learning to simplify the complexities of legal compliance and regulation, aiming to minimise financial penalites for my clients.
+
+**Advancing bantu LLMs with Zabantu**
+🌱 Zabantu: Motivated by a love for community and indegenous languages, I've been involved in Zabantu, an initiative to create a lite South African LLM. This project uses transfer learning to improve NLP representation for Tshivenda, promoting the richness of South Africa's linguistic heritage and making technology more inclusive.
 
 ### Let's Connect!
 I'm always on the lookout for like-minded individuals and opportunities to collaborate. Feel free to reach out to me:
