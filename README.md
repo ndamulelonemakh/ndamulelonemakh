@@ -20,11 +20,18 @@ I specialize in transforming ideas into reality through:
 
 **Advancing AI for Regularory Compliance**
 
-🔍 I have had the privilledge to lead an exciting project, focusing on the development of end-to-end, scalable and secure AI solutions for parsing regulatory documents. This work involves using machine learning to simplify the complexities of legal compliance and regulation, aiming to minimise financial penalites for my clients.
+🔍 I have had the privilledge to lead an exciting project, focusing on the development of end-to-end, scalable and secure AI solutions for parsing regulatory documents. This work involves using machine learning to simplify the complexities of legal compliance and regulation, aiming to mitigate the risk of financial penalites for my clients.
 
 **Advancing African NLP models with ZaBantu**
 
-🌱 [Zabantu](): I am proud to have led the inception of the ZaBantu cross-lingual Language Models in partnership with the [Data Science For Social Impact(DSFSI)](https://dsfsi.github.io/) team. This is a collection of lightweight Masked Language Models trained on South African Bantu languages, with the goal of promoting the richness of South Africa's linguistic heritage and making technology more inclusive.
+🌱 [ZaBantu](https://huggingface.co/dsfsi/zabantu-xlm-roberta): I am proud to have led the inception of the ZaBantu cross-lingual Language Models in partnership with the [Data Science For Social Impact(DSFSI)](https://dsfsi.github.io/) team. This is a collection of lightweight Masked Language Models trained on South African Bantu languages, with the goal of promoting the richness of South Africa's linguistic heritage and making technology more inclusive.
+
+### Future works
+
+- Contributing to develop,emt of high-quality training datasets for African languages
+- Establishing a benchmark for African NLP models to track progess and celebrate acchivenmts thus far.
+- Mentorship and knowledge sharing for aspiring technologists
+- Collaborating to build localised solutions to address unique challenges faced by developing communitites.
 
 ### Let's Connect!
 I'm always on the lookout for like-minded individuals and opportunities to collaborate. Feel free to reach out to me:
