@@ -1,10 +1,11 @@
 # 🖥️ @Ndamulelo's Binary Station
 
 ### About Me
-Hey there! I'm a passionate **Technology Enthusiast** 🚀 dedicated to harnessing the power of technology to address societal challenges. I believe in the transformative power of knowledge and I am currently on a journey to make it universally accessible and beneficial.
+I like to describe myself as a resourceful **Technologist** 🚀 with a passion for harnessing the power of technology to make the world a better place. I believe in the transformative power of knowledge and I strive to share my expertise to empower others.
 
 ### What Drives Me
 - 🌟 **Impact:** Leveraging tech to create solutions that matter.
+- 🧐 **Curiosity:**  My innate curiosity fuels my continuous quest for more knowledge.
 - 🌐 **Accessibility:** Ensuring technology serves *everyone*, breaking down barriers.
 - 💡 **Collaboration:** Joining forces on projects that amplify technology's reach and utility.
 
