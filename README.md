@@ -43,6 +43,7 @@ I specialize in transforming ideas into reality through:
 I'm always on the lookout for like-minded individuals and opportunities to collaborate. Feel free to reach out to me:
 - 🐦 [Twitter](https://twitter.com/NdamuleloNemakh)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ndamulelonemakhavhani/)
+- 🔗 [Blog](https://blog.ndamulelo.com/)
 
 ---
 
