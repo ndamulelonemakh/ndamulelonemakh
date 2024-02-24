@@ -4,7 +4,7 @@
 Hey there! I'm a passionate **Technology Enthusiast** 🚀 dedicated to harnessing the power of technology to address societal challenges. I believe in the transformative power of knowledge and I am currently on a journey to make it universally accessible and beneficial.
 
 ### What Drives Me
-- 🌟 **Innovation:** Leveraging tech to create solutions that matter.
+- 🌟 **Impact:** Leveraging tech to create solutions that matter.
 - 🌐 **Accessibility:** Ensuring technology serves *everyone*, breaking down barriers.
 - 💡 **Collaboration:** Joining forces on projects that amplify technology's reach and utility.
 
@@ -21,6 +21,6 @@ I'm always on the lookout for like-minded individuals and opportunities to colla
 
 ---
 
-> *endeesa's GitHub space: A platform for innovation, collaboration, and making technology universally accessible.* 🌟
+> *Ndamu's GitHub space: A platform for innovation, collaboration, and making technology universally accessible.* 🌟
 
 <!-- This is a special repository. Its `README.md` will appear on my GitHub profile to give visitors an insight into my professional world. Feel free to connect and propose collaborations. -->
