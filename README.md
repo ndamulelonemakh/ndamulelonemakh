@@ -1,7 +1,7 @@
 # 🖥️ @Ndamulelo's Binary Station
 
 ### About Me
-I like to describe myself as a resourceful **Technologist** 🚀 with a passion for harnessing the power of technology to make the world a better place. I believe in the transformative power of knowledge and I strive to share my expertise to empower others.
+I like to describe myself as a resourceful Technologist with a passion for harnessing the power of science to make the world a better place. I believe in the transformative power of knowledge🚀 and I strive to share my expertise to empower others.
 
 ### What Drives Me
 - 🌟 **Impact:** Leveraging tech to create solutions that matter.
