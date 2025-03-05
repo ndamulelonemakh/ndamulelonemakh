@@ -99,6 +99,10 @@ I'm always on the lookout for like-minded individuals and opportunities to colla
 
 ---
 
+## Contributions
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndamulelonemakh&show_icons=true&theme=radical)](https://github.com/ndamulelonemakh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndamulelonemakh&layout=compact&theme=radical)](https://github.com/ndamulelonemakh)
+
 > *Ndamu's GitHub space: A platform for innovation, collaboration, and making technology universally accessible.* 🌟
 
 <!-- This is a special repository. Its `README.md` will appear on my GitHub profile to give visitors an insight into my professional world. Feel free to connect and propose collaborations. -->
