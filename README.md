@@ -20,6 +20,17 @@ I specialize in transforming ideas into reality through:
 - **Web/Mobile Development** - occasionally I build apps using React, Flutter, NextJS, AstroJS, Django, WPF etc.
 - Multilingual **Coding** - e.g. in **Python**, **C#**, **JavaScript**, **Bash** etc.
 
+## Tech Stack
+
+- [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+- [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+- [![LangChain](https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/)
+- [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llamaindex&logoColor=white)](https://www.llamaindex.ai/)
+- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF70A6?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
+- [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+- [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+- [![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+
 ### Recent works
 
 **Advancing AI for Regularory Compliance**
