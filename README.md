@@ -20,16 +20,53 @@ I specialize in transforming ideas into reality through:
 - **Web/Mobile Development** - occasionally I build apps using React, Flutter, NextJS, AstroJS, Django, WPF etc.
 - Multilingual **Coding** - e.g. in **Python**, **C#**, **JavaScript**, **Bash** etc.
 
+
 ## Tech Stack
 
-- [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-- [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-- [![LangChain](https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/)
-- [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llamaindex&logoColor=white)](https://www.llamaindex.ai/)
-- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF70A6?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
-- [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-- [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-- [![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://azure.microsoft.com/">
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://openai.com/">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://python.langchain.com/">
+        <img src="https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.llamaindex.ai/">
+        <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://huggingface.co/">
+        <img src="https://img.shields.io/badge/Hugging%20Face-FF70A6?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tensorflow.org/">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://fastapi.tiangolo.com/">
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nextjs.org/">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Recent works
 
@@ -56,9 +93,9 @@ I specialize in transforming ideas into reality through:
 
 ### Let's Connect!
 I'm always on the lookout for like-minded individuals and opportunities to collaborate. Feel free to reach out to me:
-- 🐦 [Twitter](https://twitter.com/NdamuleloNemakh)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ndamulelonemakhavhani/)
 - 📚 [Blog](https://blog.ndamulelo.co.za/)
+- 🐦 [Twitter](https://twitter.com/NdamuleloNemakh)
 
 ---
 
