@@ -17,7 +17,7 @@ I specialize in transforming ideas into reality through:
 - Implementing **Agentic AI**, to transform Software into intelligent, autonomous systems capable of decision-making and task execution
 - Deploying **Machine Learning** 🧠 models, with a keen focus on **Natural Language Processing**.
 - Building secure, **Data-Driven Solutions** 📊 on [Microsoft Azure](https://azure.microsoft.com/).
-- **Web/Mobile Development** - occasionally I build apps using React, Flutter, NextJS, AstroJS, Django, WPF etc.
+- **Web/Mobile/Desktop Development** - occasionally I build apps using React, Flutter, NextJS, AstroJS, Django, WPF etc.
 - Multilingual **Coding** - e.g. in **Python**, **C#**, **JavaScript**, **Bash** etc.
 
 
