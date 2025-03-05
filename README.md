@@ -1,20 +1,24 @@
 # 🖥️ @Ndamulelo's Binary Station
 
 ### About Me
-I like to describe myself as a resourceful Technologist with a passion for harnessing the power of science to make the world a better place. I believe in the transformative power of knowledge🚀 and I strive to share my expertise to empower others.
+
+I like to describe myself as a resourceful Technologist with a passion for harnessing the power of science—especially cutting-edge AI like generative models and hyperscale cloud platforms—to make the world a better place. I believe in the transformative power of knowledge🚀  and strive to share my expertise to empower others.
+
 
 ### What Drives Me
-- 🌟 **Impact:** Leveraging tech to create solutions that matter.
-- 🧐 **Curiosity:**  My innate curiosity fuels my continuous quest for more knowledge.
-- 🌐 **Accessibility:** Ensuring technology serves *everyone*, breaking down barriers.
-- 💡 **Collaboration:** Joining forces on projects that amplify technology's reach and utility.
+
+- 🌟 **Impact:** Leveraging advancements in Generative AI for social good.
+- 🧐 **Curiosity:**  My innate curiosity fuels my continuous quest for more knowledge, especially in emerging fields like *Multimodal AI*, *Information Security* and *AI Ethics*
+- 🌐 **Accessibility:** Ensuring technology serves *everyone* fairly by taking their unique context into account.
+- 💡 **Collaboration:** Joining forces on projects that amplify technology’s reach and utility.
 
 ### Expertise
 I specialize in transforming ideas into reality through:
-- **Machine Learning** 🧠, with a keen focus on **Natural Language Processing**.
-- **Data-Driven Solutions** 📊, building on [Microsoft Azure](https://azure.microsoft.com/).
-- **App Development**, occasionally I build apps using React, Flutter, NextJS, AstroJS, Django, WPF etc.
-- **Coding**, in **Python**, **.Net**, and **JavaScript**
+- Implementing **Agentic AI**, to transform Software into intelligent, autonomous systems capable of decision-making and task execution
+- Deploying **Machine Learning** 🧠 models, with a keen focus on **Natural Language Processing**.
+- Building secure, **Data-Driven Solutions** 📊 on [Microsoft Azure](https://azure.microsoft.com/).
+- **Web/Mobile Development** - occasionally I build apps using React, Flutter, NextJS, AstroJS, Django, WPF etc.
+- Multilingual **Coding** - e.g. in **Python**, **C#**, **JavaScript**, **Bash** etc.
 
 ### Recent works
 
