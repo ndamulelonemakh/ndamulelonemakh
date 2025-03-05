@@ -99,7 +99,7 @@ I'm always on the lookout for like-minded individuals and opportunities to colla
 
 ---
 
-## Contributions
+## Contributions (Public Repos only)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndamulelonemakh&show_icons=true&theme=radical)](https://github.com/ndamulelonemakh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndamulelonemakh&layout=compact&theme=radical)](https://github.com/ndamulelonemakh)
 
